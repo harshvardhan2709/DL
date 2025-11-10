@@ -1,0 +1,3 @@
+pip install tensorflow keras matplotlib seaborn pandas
+or
+!pip install tensorflow keras matplotlib seaborn pandas
